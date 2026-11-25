@@ -1,0 +1,8 @@
+catatan untuk materi git ini aku buath kurang lebih dalam 2 hari dengan waktu belajar dari jam 9-12 siang 
+- beberapa command seperti git add remote origin ini entah kenapa tidak bisa dijalankan dan aku harus membuat secara manual
+- git switch harus ditulis sesuai nama repisotory untuk berpindah tanpa ada tanda petik
+- git commit harus selalu di lakukan untuk melakukan update file branch maupun ke main
+- ada kejadian lucu aku melakukan git iniit di folder utama main , agar semua sub folder yang nanti kita buat ini bisa tertstrukur secara rapi dan aku dapat mengedit file di branch instead di main langsung , dan aku baru sadar setelah aku melakukan push di brach dan berhasil , aku dengan polosnya melakukan pull di main , sedangkan poisis di main sendiri masih dalam kondisi pertama kali tanpa ada perubahan karena aku belum melakukan merge dan commit , dan alhasil file readme yang aku buat langsung hilang , dan aku harus melakukan pull ulang dari branch agar bisa mengembalikanya
+- git add sendiri aku baru bahan kalau itu bukan literal melakukan penambahan sebuah file baru tapi melakkukan update file yang sudah ada (mungkin nanti kamu bisa jelaskan ini lebih jelas lagi )
+- ada beberapa yang command yang membingunakn seperti ada -c untuk siwtch -m untuk commit -u untuk push
+- di file word tidak ada penjelasan mengenai pull dan merge secara command list jadi aku melakukan secara manual
